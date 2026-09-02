@@ -1,0 +1,8 @@
+commands:
+
+git init,
+git status,
+git add "tesying.py"
+git status,
+git commit -m "this isversioning 1"
+git push
