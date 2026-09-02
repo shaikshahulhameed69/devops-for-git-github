@@ -6,3 +6,5 @@ git add "tesying.py"
 git status,
 git commit -m "this isversioning 1"
 git push
+
+git next is natural file will be push in to the master for in devops-for-git-github
